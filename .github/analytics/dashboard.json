@@ -1,8 +1,8 @@
 {
   "repository": "shivampimple29/DevOps-sem4",
   "defaultBranch": "main",
-  "updatedAtUTC": "2026-10-24T07:34:13.193981+00:00",
-  "updatedAtIST": "2026-10-24 13:04:13 IST",
+  "updatedAtUTC": "2026-10-24T09:59:43.970013+00:00",
+  "updatedAtIST": "2026-10-24 15:29:43 IST",
   "trafficStatus": "token_required",
   "trafficMetrics": {
     "availableDaysCount": 5,
@@ -78,5 +78,13 @@
     "lastSuccessfulUpdate": "2026-10-24T07:28:41.320235+00:00"
   },
   "forksCount": 0,
-  "supporters": []
+  "supporters": [
+    {
+      "username": "radhaursekar12",
+      "profileUrl": "https://github.com/radhaursekar12",
+      "avatarUrl": "https://github.com/radhaursekar12.png?size=96",
+      "role": "Community Star",
+      "year": "2026"
+    }
+  ]
 }
