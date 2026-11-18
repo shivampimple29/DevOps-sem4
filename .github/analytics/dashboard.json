@@ -1,39 +1,15 @@
 {
   "repository": "shivampimple29/DevOps-sem4",
   "defaultBranch": "main",
-  "updatedAtUTC": "2026-11-17T11:05:07.485285+00:00",
-  "updatedAtIST": "2026-11-17 16:35:07 IST",
+  "updatedAtUTC": "2026-11-18T07:28:59.449465+00:00",
+  "updatedAtIST": "2026-11-18 12:58:59 IST",
   "trafficStatus": "success",
   "trafficMetrics": {
     "availableDaysCount": 5,
     "isWindowComplete": true,
-    "windowStartDate": "2026-11-10",
-    "windowEndDate": "2026-11-14",
+    "windowStartDate": "2026-11-13",
+    "windowEndDate": "2026-11-17",
     "last5DaysRecords": [
-      {
-        "date": "2026-11-10",
-        "clones": 8,
-        "uniqueCloners": 5,
-        "views": 0,
-        "uniqueVisitors": 0,
-        "status": "Recorded"
-      },
-      {
-        "date": "2026-11-11",
-        "clones": 24,
-        "uniqueCloners": 13,
-        "views": 0,
-        "uniqueVisitors": 0,
-        "status": "Recorded"
-      },
-      {
-        "date": "2026-11-12",
-        "clones": 34,
-        "uniqueCloners": 17,
-        "views": 1,
-        "uniqueVisitors": 1,
-        "status": "Recorded"
-      },
       {
         "date": "2026-11-13",
         "clones": 21,
@@ -49,33 +25,57 @@
         "views": 1,
         "uniqueVisitors": 1,
         "status": "Recorded"
+      },
+      {
+        "date": "2026-11-15",
+        "clones": 29,
+        "uniqueCloners": 18,
+        "views": 0,
+        "uniqueVisitors": 0,
+        "status": "Recorded"
+      },
+      {
+        "date": "2026-11-16",
+        "clones": 13,
+        "uniqueCloners": 7,
+        "views": 0,
+        "uniqueVisitors": 0,
+        "status": "Recorded"
+      },
+      {
+        "date": "2026-11-17",
+        "clones": 10,
+        "uniqueCloners": 6,
+        "views": 0,
+        "uniqueVisitors": 0,
+        "status": "Recorded"
       }
     ],
-    "last5DaysTotalClones": 113,
-    "last5DaysTotalViews": 3,
-    "last5DaysSumUniqueCloners": 60,
-    "last5DaysSumUniqueVisitors": 3,
-    "last5DaysAvgUniqueClonersPerDay": 12.0,
-    "last5DaysAvgUniqueVisitorsPerDay": 0.6,
+    "last5DaysTotalClones": 99,
+    "last5DaysTotalViews": 2,
+    "last5DaysSumUniqueCloners": 56,
+    "last5DaysSumUniqueVisitors": 2,
+    "last5DaysAvgUniqueClonersPerDay": 11.2,
+    "last5DaysAvgUniqueVisitorsPerDay": 0.4,
     "previous5DaysDates": [
-      "2026-11-05",
-      "2026-11-06",
-      "2026-11-07",
       "2026-11-08",
-      "2026-11-09"
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12"
     ],
-    "previous5DaysTotalClones": 82,
-    "previous5DaysTotalViews": 2,
-    "cloneDifference": 31,
+    "previous5DaysTotalClones": 114,
+    "previous5DaysTotalViews": 1,
+    "cloneDifference": -15,
     "viewDifference": 1,
-    "cloneGrowthPercent": 37.8,
-    "viewGrowthPercent": 50.0,
-    "recordedCumulativeClones": 500,
+    "cloneGrowthPercent": -13.2,
+    "viewGrowthPercent": 100.0,
+    "recordedCumulativeClones": 552,
     "recordedCumulativeViews": 17,
-    "recordedCumulativeUniqueCloners": 262,
+    "recordedCumulativeUniqueCloners": 293,
     "recordedCumulativeUniqueVisitors": 6,
     "collectionStartedAt": "2026-10-24T07:28:41.320235+00:00",
-    "lastSuccessfulUpdate": "2026-11-17T11:05:07.485285+00:00"
+    "lastSuccessfulUpdate": "2026-11-18T07:28:59.449465+00:00"
   },
   "forksCount": 0,
   "supporters": [
